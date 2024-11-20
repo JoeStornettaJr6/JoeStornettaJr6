@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @JoeStornettaJr6
+- 👋 Hi, I’m Joe Stornetta Jr.
 - 👀 I’m interested in creating full-stack web apps/sites.
-- 🌱 I’m currently learning everything.
-- 💞️ I’m looking to collaborate on anything
+- 🌱 I’m currently learning ... everything.
+- 💞️ I’m looking to collaborate on anything and everything.
 - 📫 How to reach me email joestornettajr6@gmail.com
 - 😄 Pronouns: whatever you want to call me.
 - ⚡ Fun fact: I use to auto race professionally.
