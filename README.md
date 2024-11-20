@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on anything and everything.
 - 📫 How to reach me email joestornettajr6@gmail.com
 - 😄 Pronouns: whatever you want to call me.
-- ⚡ Fun fact: I use to auto race professionally.
+- ⚡ Fun fact: I use to be a professional racing car driver.
 
 <!---
 JoeStornettaJr6/JoeStornettaJr6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
